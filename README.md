@@ -2,7 +2,7 @@
 Task 1:SMS Classifier
 
 
-Introduction
+Introduction:
 
 In an age where instant messaging is ubiquitous, SMS spam is a nuisance we all face. This, however, presents a fantastic learning opportunity for those new to data science. Let's dive into how to build a machine learning model for SMS spam detection, a perfect project for beginners in Natural Language Processing (NLP) and machine learning.
 
